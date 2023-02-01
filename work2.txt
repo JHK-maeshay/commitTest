@@ -3,3 +3,11 @@ working dir 변경한파일
 stage area = index = cache 버전을바꿀파일
 w.d. -> s.a. 는 add
 s.a. -> repository 는 commit
+
+10
+head와 main
+디버그 방법
+checkout으로 버그가 나지않는 마지막 버전을 확인
+main으로 checkout해서
+버그가 난 부분 수정
+!!다른곳에 checkout한다음에 수정하고 커밋하지 말것
