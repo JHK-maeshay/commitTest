@@ -1,1 +1,5 @@
 9
+working dir 변경한파일
+stage area = index = cache 버전을바꿀파일
+w.d. -> s.a. 는 add
+s.a. -> repository 는 commit
